@@ -41,6 +41,6 @@ From this project, I gained deeper understanding of:
 
 ##  6. Deployment & Links  
 - **Live Project:** [(https://theme-switcher-using-context-api-and-custom-hook-3i98.vercel.app/)]  
-- **GitHub Repo:** [(https://github.com/kaleqty/Simple-Task-Manager.git)](https://github.com/kaleqty/Simple-Task-Manager.git)]  
+- **GitHub Repo:** [[(https://github.com/kaleqty/Simple-Task-Manager.git)](https://github.com/kaleqty/Simple-Task-Manager.git)](https://simple-task-manager-cyan.vercel.app/)]  
 ![Preview Screenshot](![React App - Google Chrome 02_05_2025 4_36_18 am](https://github.com/user-attachments/assets/d3863888-f10d-4ef8-86ed-7327c8dc0989)
  )
